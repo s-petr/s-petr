@@ -28,13 +28,6 @@ I believe in:
 - 🏠 Self-hosted infrastructure
 - ♻️ Reusable, maintainable code
 
-## Experience Highlights
-
-- 💼 Built and maintained online payment systems
-- 🌐 Developed full-stack web applications
-- 📈 Managed technical projects across multiple industries
-- 🔄 Integrated complex payment processing solutions
-
 ## Languages
 
 - 🇬🇧 English (Fluent)
