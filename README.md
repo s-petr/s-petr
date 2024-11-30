@@ -19,20 +19,3 @@ I'm a Web Developer and IT Operations specialist with over 5 years of experience
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 </div>
-
-## Philosophy
-
-I believe in:
-- 🎯 Simplicity over complexity
-- 🔓 Open-source solutions
-- 🏠 Self-hosted infrastructure
-- ♻️ Reusable, maintainable code
-
-## Languages
-
-- 🇬🇧 English (Fluent)
-- 🇷🇺 Russian (Native)
-
-## Current Location
-
-🌍 Based in Cyprus, with experience working across Western Europe
