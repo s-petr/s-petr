@@ -1,13 +1,15 @@
-## About Me
+# Sergei Petrov
 
-I'm a Web Developer and IT Operations specialist with over 5 years of experience in building and maintaining online payment systems. I specialize in:
+I'm a Web Developer and IT Operations specialist with over 5 years of experience in building and maintaining online payment systems. 
+
+## My Expertise
 
 - 🔧 Full-stack web application development
 - 💳 Online payment systems integration
-- 🛠️ Technical support and operations
+- 🛠️ IT Operations and Technical support
 - 📊 Project management
 
-## Tech Stack
+## My Tech Stack
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
