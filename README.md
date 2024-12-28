@@ -4,7 +4,7 @@ I'm a Web Developer and IT Operations specialist with over 5 years of experience
 
 ## My Expertise
 
-- 🔧 Full-stack web application development
+- 💻 Web application development
 - 💳 Online payment systems integration
 - 🛠️ IT Operations and Technical support
 - 📊 Project management
