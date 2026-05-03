@@ -1,6 +1,6 @@
 # Sergei Petrov
 
-I'm a Web Developer and IT Operations specialist with over 6 years of experience in building and maintaining online payment systems. 
+I'm a Web Developer specializing in Fintech with over 6 years of experience in building and maintaining online payment systems. 
 
 ## My Expertise
 
